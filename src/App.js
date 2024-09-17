@@ -11,7 +11,7 @@ function App() {
       <div className="footer-info">
         {" "}
         | Developed by{" "}
-        <a target="_blank" href="https://weatherapp-lovat-one.vercel.app/">
+        <a target="_blank" href="https://weatherapp-lovat-one.vercel.app">
           Nitin Ahlawat
         </a>{" "}
         |
